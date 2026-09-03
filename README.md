@@ -277,6 +277,8 @@ The tool runs locally in the browser and does not use a backend. Catalog data an
 
 The external **Review source** link opens the Neenah PDF when selected. Catalog browsing, calculations, charting, and CSV generation perform no data uploads.
 
+This project is public.  Content is intended for educational and reference use only. 
+
 ---
 
 ## Responsive Interface
